@@ -18,7 +18,7 @@ global.autorecording = false //status auto merekam ( auto record )
 global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 // Other
-global.owner = ['60177426853','62895386209243','6285339388512']
+global.owner = ['60177426853','62882006212045','6285339388512']
 global.premium = ['62895386209243']
 global.packname = 'The Jo Bot'
 global.author = 'WhatsApp Bot'
